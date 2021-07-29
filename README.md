@@ -42,20 +42,21 @@ a passionate postgraduate student from Guangzhou, Mainland China.
 ### Activity analysis
 
 <p>
-<img width="34%" align="left" src="https://github-readme-stats.vercel.app/api?username=droliven&show_icons=true&locale=en&theme=gruvbox" alt="droliven's github stats" />
-&nbsp;<img width="28%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=droliven&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="droliven" />
-&nbsp;<img width="34%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=droliven&theme=gruvbox" alt="droliven" />
+<img width="32%" align="left" src="https://github-readme-stats.vercel.app/api?username=droliven&show_icons=true&locale=en&theme=gruvbox" alt="droliven's github stats" />
+&nbsp;&nbsp;<img width="26%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=droliven&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="droliven" />
+&nbsp;&nbsp;<img width="32%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=droliven&theme=gruvbox" alt="droliven" />
 </p>
 
 <p><a href="https://github.com/Droliven/MSRGCN">
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=MSRGCN&theme=gruvbox" /></a>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=MSRGCN&theme=nightowl" /></a>
 </p>
 
 <p align = "left">
- <img src="https://activity-graph.herokuapp.com/graph?username=droliven&theme=gruvbox">
+ <img src="https://activity-graph.herokuapp.com/graph?username=droliven&theme=chartreuse-dark">
 </p>
 
 ---
+
 
 ### Reference
 
@@ -64,4 +65,5 @@ a passionate postgraduate student from Guangzhou, Mainland China.
 + [Github 打造个人主页](https://kilienazure.com/github-profile-readme/)
 + [KiLien](https://github.com/KiLien)
 + [详细设置](http://wangyuheng.github.io/2020/10/17/github-profile-readme/)
++ [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
