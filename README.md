@@ -42,9 +42,9 @@ a passionate postgraduate student from Guangzhou, Mainland China.
 ### Activity analysis
 
 <p>
-<img width="32%" align="left" src="https://github-readme-stats.vercel.app/api?username=droliven&show_icons=true&locale=en&theme=gruvbox" alt="droliven's github stats" />
-&nbsp;<img width="26%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=droliven&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="droliven" />
-&nbsp;<img width="32%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=droliven&theme=gruvbox" alt="droliven" />
+<img width="32%" align="center" src="https://github-readme-stats.vercel.app/api?username=droliven&show_icons=true&locale=en&theme=gruvbox" alt="droliven's github stats" />
+&nbsp;<img width="26%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=droliven&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="droliven" />
+&nbsp;<img width="32%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=droliven&theme=gruvbox" alt="droliven" />
 </p>
 
 <p><a href="https://github.com/Droliven/MSRGCN">
