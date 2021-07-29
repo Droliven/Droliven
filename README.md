@@ -1,15 +1,23 @@
+<p align="center"><img src="assets/whiteflower.jpg"/></p>
 
-### Hi there, I'm [Droliven!](https://github.com/Droliven) 👋
-<br />
+## Hi there, I'm [Droliven](https://github.com/Droliven) 👋
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
-a passionate postgraduate student from Guangzhou, China Mainland.
+a passionate postgraduate student from Guangzhou, Mainland China.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=droliven&label=Profile%20views&color=0e75b6&style=flat" alt="droliven" /> </p>
+
+<img align="left" alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal" width='95%'/>
+
+  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🔭 I’m currently working on [skeleton-based human motion prediction](https://github.com/Droliven/MSRGCN)
 - 💬 Ask me about anything [droliven@163.com](droliven@163.com)
 
-**Languages and Tools:**  
+---
+
+### Languages and Tools
+
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
@@ -29,17 +37,31 @@ a passionate postgraduate student from Guangzhou, China Mainland.
 <code><img height="20" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
 
+---
+
+### Activity analysis
 
 <p>
-<img width="31%" align="left" src="https://github-readme-stats.vercel.app/api?username=droliven&show_icons=true&locale=en&theme=gruvbox" alt="droliven's github stats" />
-&nbsp;<img width="26%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=droliven&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="droliven" />
-&nbsp;<img width="31%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=droliven&theme=gruvbox" alt="droliven" />
+<img width="34%" align="left" src="https://github-readme-stats.vercel.app/api?username=droliven&show_icons=true&locale=en&theme=gruvbox" alt="droliven's github stats" />
+&nbsp;<img width="28%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=droliven&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="droliven" />
+&nbsp;<img width="34%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=droliven&theme=gruvbox" alt="droliven" />
 </p>
 
 <p><a href="https://github.com/Droliven/MSRGCN">
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=MSRGCN&theme=gruvbox" /></a>
 </p>
 
+<p align = "left">
+ <img src="https://activity-graph.herokuapp.com/graph?username=droliven&theme=gruvbox">
+</p>
 
+---
 
+### Reference
+
++ [海拥wanghao221](https://github.com/wanghao221/wanghao221)
++ [Github 展示](https://cdmana.com/2021/07/20210727104054480v.html)
++ [Github 打造个人主页](https://kilienazure.com/github-profile-readme/)
++ [KiLien](https://github.com/KiLien)
++ [详细设置](http://wangyuheng.github.io/2020/10/17/github-profile-readme/)
 
