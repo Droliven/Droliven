@@ -1,5 +1,5 @@
 <!-- <p align="center"><img src="assets/whiteflower.jpg"/></p> -->
-<p align="center"><img src="assets/violin1.jpg"/>
+<!-- <p align="center"><img src="assets/violin1.jpg"/> -->
 
 ## Hi there, I'm [Droliven](https://github.com/Droliven) 👋
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
