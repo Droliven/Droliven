@@ -12,7 +12,7 @@ a passionate postgraduate student from Guangzhou, Mainland China.
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on [deterministic](https://github.com/Droliven/MSRGCN) / [stochastic]() skeleton-based human motion prediction, [3D human pose / shape reconstruction](https://github.com/Droliven/pymaf_reimplementation).
+- 🔭 I’m currently working on [deterministic](https://github.com/Droliven/MSRGCN) / [stochastic]() skeleton-based human motion prediction, [3D human pose & shape reconstruction / mesh recovery](https://github.com/Droliven/pymaf_reimplementation).
 - 💬 Talk with me about anything [levondang@163.com](levondang@163.com)
 
 ---
