@@ -58,7 +58,7 @@ a passionate postgraduate student from Guangzhou, Mainland China.
   </a>
 </p>
 
-<br>
+<br/>
 
 
 <p>
