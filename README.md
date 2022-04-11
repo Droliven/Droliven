@@ -54,11 +54,11 @@ a passionate postgraduate student from Guangzhou, Mainland China.
 
 <p>
  <a href="https://github.com/Droliven/Diverse-Sampling-for-Generative-Networls">
-    <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=Diverse-Sampling-for-Generative-Networls&theme=nightowl" />
+    <img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=Diverse-Sampling-for-Generative-Networls&theme=nightowl" />
   </a>
 </p>
 
-<br/>
+
 
 
 <p>
