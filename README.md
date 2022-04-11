@@ -12,7 +12,7 @@ a passionate postgraduate student from Guangzhou, Mainland China.
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on (1) [Deterministic](https://github.com/Droliven/MSRGCN) / [Stochastic]() **Human Motion Prediction / Generation**, (2) [**Diversity Promotion / Diverse Sampling for Generative Networls**](), (3) [3D Human Pose & Shape Reconstruction / Mesh Recovery](https://github.com/Droliven/pymaf_reimplementation).
+- 🔭 I’m currently working on (1) [Deterministic](https://github.com/Droliven/MSRGCN) / [Stochastic]() **Human Motion Prediction / Generation**, (2) [**Diversity Promotion / Diverse Sampling for Generative Networls**](https://github.com/Droliven/Diverse-Human-Motion-Prediction-via-Gumbel-Softmax-Sampling-from-an-Auxiliary-Space), (3) [3D Human Pose & Shape Reconstruction / Mesh Recovery](https://github.com/Droliven/pymaf_reimplementation).
 - Some other areas or techniques that I have been exposed to but not that familiar with: Pose Estimation, Image Inpainting, Anomaly Detection, Face Swapping, Meta Learning, Semisupervised / Unsupervised Learning, *etc.*
 - 💬 Talk with me about anything [levondang@163.com](levondang@163.com)
 
@@ -49,6 +49,12 @@ a passionate postgraduate student from Guangzhou, Mainland China.
   </a>
   <a href="https://github.com/Droliven/pymaf_reimplementation">
     <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=pymaf_reimplementation&theme=nightowl" />
+  </a>
+</p>
+
+<p>
+ <a href="https://github.com/Droliven/Diverse-Human-Motion-Prediction-via-Gumbel-Softmax-Sampling-from-an-Auxiliary-Space">
+    <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=Diverse-Human-Motion-Prediction-via-Gumbel-Softmax-Sampling-from-an-Auxiliary-Space&theme=nightowl" />
   </a>
 </p>
 
