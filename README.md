@@ -53,10 +53,11 @@ a passionate postgraduate student from Guangzhou, Mainland China.
 </p>
 
 <p>
- <a href="https://github.com/Droliven/Diverse-Human-Motion-Prediction-via-Gumbel-Softmax-Sampling-from-an-Auxiliary-Space">
+ <a href="">
     <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=Diverse-Human-Motion-Prediction-via-Gumbel-Softmax-Sampling-from-an-Auxiliary-Space&theme=nightowl" />
   </a>
 </p>
+
 
 <p>
 <img width="32%" align="center" src="https://github-readme-stats.vercel.app/api?username=droliven&show_icons=true&locale=en&theme=gruvbox" alt="droliven's github stats" />
