@@ -45,13 +45,13 @@ a passionate postgraduate student from Guangzhou, Mainland China.
 
 <p>
   <a href="https://github.com/Droliven/MSRGCN">
-    <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=MSRGCN&theme=nightowl" />
+    <img width="33%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=MSRGCN&theme=nightowl" />
   </a>
   <a href="https://github.com/Droliven/pymaf_reimplementation">
-    <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=pymaf_reimplementation&theme=nightowl" />
+    <img width="33%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=pymaf_reimplementation&theme=nightowl" />
   </a>
   <a href="https://github.com/Droliven/Diverse-Sampling-for-Generative-Networls">
-    <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=Diverse-Sampling-for-Generative-Networls&theme=nightowl" />
+    <img width="31%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=Diverse-Sampling-for-Generative-Networls&theme=nightowl" />
   </a>
 </p>
 
