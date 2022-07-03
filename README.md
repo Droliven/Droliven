@@ -18,6 +18,19 @@ a passionate postgraduate student from Guangzhou, Mainland China.
 
 ---
 
+### Publications
+
+<ul style="padding-left:12px;">
+			    <li>
+			    <p><font class="font_nyw_paper_name">Lingwei Dang, <b>Yongwei Nie<sup>*</sup></b>, Chengjiang Long, Qing Zhang, Guiqing Li</font><br />
+				<font class="font_nyw_paper_title">Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space</font><br />
+				<font class="font_nyw_paper_description">Proceedings of the 30th ACM International Conference on Multimedia (<b>ACM MM</b>), Lisbon, Portugal, Oct 10-14, 2022.</font> <font class="font_nyw_paper_ALei"></font><br />
+				<a href="https://nieyongwei.net/">Paper will be available</a> <a href="https://nieyongwei.net/">Code will be available.</a></p>
+				</li>
+  <\ul>
+
+---
+
 ### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
@@ -61,7 +74,7 @@ a passionate postgraduate student from Guangzhou, Mainland China.
 <p>
 <img width="32%" align="left" src="https://github-readme-stats.vercel.app/api?username=droliven&show_icons=true&locale=en&theme=gruvbox" alt="droliven's github stats" />
 &nbsp;<img width="26%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=droliven&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="droliven" />
-&nbsp;<img width="30%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=droliven&theme=gruvbox" alt="droliven" />
+&nbsp;<img width="31%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=droliven&theme=gruvbox" alt="droliven" />
 </p>
 
 
