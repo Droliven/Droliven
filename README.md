@@ -48,7 +48,7 @@ a passionate postgraduate student from Guangzhou, Mainland China.
     <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=MSRGCN&theme=nightowl" />
   </a>
   <a href="https://github.com/Droliven/diverse_sampling">
-    <img width="38%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=diverse_sampling&theme=nightowl" />
+    <img width="36%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=diverse_sampling&theme=nightowl" />
   </a>
   <a href="https://github.com/Droliven/pymaf_reimplementation">
     <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=pymaf_reimplementation&theme=nightowl" />
@@ -59,9 +59,9 @@ a passionate postgraduate student from Guangzhou, Mainland China.
 
 
 <p>
-<img width="32%" align="center" src="https://github-readme-stats.vercel.app/api?username=droliven&show_icons=true&locale=en&theme=gruvbox" alt="droliven's github stats" />
-&nbsp;<img width="26%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=droliven&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="droliven" />
-&nbsp;<img width="32%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=droliven&theme=gruvbox" alt="droliven" />
+<img width="32%" align="left" src="https://github-readme-stats.vercel.app/api?username=droliven&show_icons=true&locale=en&theme=gruvbox" alt="droliven's github stats" />
+&nbsp;<img width="26%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=droliven&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="droliven" />
+&nbsp;<img width="32%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=droliven&theme=gruvbox" alt="droliven" />
 </p>
 
 
