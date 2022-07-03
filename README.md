@@ -20,7 +20,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 	1. [**Stochastic Human Motion Generation / Diversity Promotion or Diverse Sampling for Generative Networls**](https://github.com/Droliven/diverse_sampling)
 	1. [3D Human Pose & Shape Reconstruction / Mesh Recovery](https://github.com/Droliven/pymaf_reimplementation).
 - Some other areas or techniques that I have been exposed to but not that familiar with: Pose Estimation, Image Inpainting, Anomaly Detection, Face Swapping, Meta Learning, Semisupervised / Unsupervised Learning, *etc.*
-- 💬 Talk with me about anything [levondang@163.com](levondang@163.com)
+- 💬 Talk with me about anything [levondang@163.com](mailto:levondang@163.com)
 
 ---
 
