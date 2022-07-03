@@ -31,7 +31,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 		<font class="font_nyw_paper_name"><b>Lingwei Dang</b>, Yongwei Nie<sup>*</sup>, Chengjiang Long, Qing Zhang, Guiqing Li</font><br />
 		<font class="font_nyw_paper_title">Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space</font><br />
 		<font class="font_nyw_paper_description">Proceedings of the 30th ACM International Conference on Multimedia (<b>ACM MM</b>), Lisbon, Portugal, Oct 10-14, 2022.		</font> <font class="font_nyw_paper_ALei"></font><br />
-		<a href="https://nieyongwei.net/">[Paper will be available]</a> <a href="https://github.com/Droliven/diverse_sampling">Code.</a>
+		<a href="https://nieyongwei.net/">[Paper will be available]</a> <a href="https://github.com/Droliven/diverse_sampling">[Code]</a>
      	</p>
    </li>
 	<li>
@@ -39,7 +39,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 		<font class="font_nyw_paper_name">Zhixiang Song<sup>*</sup>, <b>Lingwei Dang</b></font><br />
 		<font class="font_nyw_paper_title">Library Personalized Service System Based on Computer Network Technology</font><br />
 		<font class="font_nyw_paper_description">Security and Communication Networks, 2022.</font> <font class="font_nyw_paper_ALei"></font><br />
-		<a href="https://www.hindawi.com/journals/scn/2022/2550820/">Paper</a>
+		<a href="https://www.hindawi.com/journals/scn/2022/2550820/">[Paper]</a>
      	</p>
    </li>
 	<li>
@@ -47,7 +47,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 		<font class="font_nyw_paper_name">Yan Sun<sup>*</sup>, <b>Lingwei Dang</b></font><br />
 		<font class="font_nyw_paper_title">A Fine Three-dimensional Adaptive Color Segmentation Algorithm for Real-time Vision System of Soccer Robot</font><br />
 		<font class="font_nyw_paper_description">Proceedings of the 4th International Conference on Communications, Information System and Computer Engineering (<b>CISCE</b>), Shenzhen, China, Jun 24-26, 2022.		</font> <font class="font_nyw_paper_ALei"></font><br />
-		<a href="">Paper will be available</a>
+		<a href="">[Paper will be available]</a>
      	</p>
    </li>
   </ul>
@@ -60,7 +60,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 		<font class="font_nyw_paper_name"><b>Lingwei Dang</b>, Yongwei Nie<sup>*</sup>, Chengjiang Long, Qing Zhang, Guiqing Li</font><br />
 		<font class="font_nyw_paper_title">MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction</font><br />
 		<font class="font_nyw_paper_description">Proceedings of the IEEE International Conference on Computer Vision (<b>ICCV</b>), Montreal, Canada, Oct 11-17, 2021.</font> <font class="font_nyw_paper_ALei"></font><br />
-<a href="https://arxiv.org/abs/2108.07152">Paper</a> <a href="https://github.com/Droliven/MSRGCN">Code.</a></p>
+<a href="https://arxiv.org/abs/2108.07152">[Paper]</a> <a href="https://github.com/Droliven/MSRGCN">[Code]</a></p>
 	</p>
    </li>
   </ul>
