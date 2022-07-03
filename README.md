@@ -20,6 +20,8 @@ a passionate postgraduate student from Guangzhou, Mainland China.
 
 ### Publications
 
+#### 2022
+
 <ul style="padding-left:12px;">
     <li>
     	<p>
@@ -45,6 +47,11 @@ a passionate postgraduate student from Guangzhou, Mainland China.
 		<a href="">Paper will be available</a>
      	</p>
    </li>
+  </ul>
+
+#### 2021
+
+<ul style="padding-left:12px;">
 	<li>
     	<p>
 		<font class="font_nyw_paper_name"><b>Lingwei Dang</b>, Yongwei Nie<sup>*</sup>, Chengjiang Long, Qing Zhang, Guiqing Li</font><br />
@@ -55,13 +62,6 @@ a passionate postgraduate student from Guangzhou, Mainland China.
    </li>
   </ul>
 
----
-<li>
-			    <p><font class="font_nyw_paper_name">Lingwei Dang, <b>Yongwei Nie<sup>*</sup></b>, Chengjiang Long, Qing Zhang, Guiqing Li</font><br>
-				<font class="font_nyw_paper_title">MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction</font><br>
-				<font class="font_nyw_paper_description">Proceedings of the IEEE International Conference on Computer Vision (<b>ICCV</b>), Montreal, Canada, Oct 11-17, 2021.</font> <font class="font_nyw_paper_ALei"></font><br>
-				<a href="https://arxiv.org/abs/2108.07152">Paper</a> <a href="https://github.com/Droliven/MSRGCN">Code.</a></p>
-				</li>
 ### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
