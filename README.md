@@ -21,16 +21,47 @@ a passionate postgraduate student from Guangzhou, Mainland China.
 ### Publications
 
 <ul style="padding-left:12px;">
-			    <li>
-			    <p><font class="font_nyw_paper_name">Lingwei Dang, <b>Yongwei Nie<sup>*</sup></b>, Chengjiang Long, Qing Zhang, Guiqing Li</font><br />
-				<font class="font_nyw_paper_title">Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space</font><br />
-				<font class="font_nyw_paper_description">Proceedings of the 30th ACM International Conference on Multimedia (<b>ACM MM</b>), Lisbon, Portugal, Oct 10-14, 2022.</font> <font class="font_nyw_paper_ALei"></font><br />
-				<a href="https://nieyongwei.net/">Paper will be available</a> <a href="https://nieyongwei.net/">Code will be available.</a></p>
-				</li>
-  <\ul>
+    <li>
+    	<p>
+		<font class="font_nyw_paper_name"><b>Lingwei Dang</b>, Yongwei Nie<sup>*</sup>, Chengjiang Long, Qing Zhang, Guiqing Li</font><br />
+		<font class="font_nyw_paper_title">Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space</font><br />
+		<font class="font_nyw_paper_description">Proceedings of the 30th ACM International Conference on Multimedia (<b>ACM MM</b>), Lisbon, Portugal, Oct 10-14, 2022.		</font> <font class="font_nyw_paper_ALei"></font><br />
+		<a href="https://nieyongwei.net/">Paper will be available</a> <a href="https://nieyongwei.net/">Code will be available.</a>
+     	</p>
+   </li>
+	<li>
+    	<p>
+		<font class="font_nyw_paper_name">Zhixiang Song<sup>*</sup>, <b>Lingwei Dang</b></font><br />
+		<font class="font_nyw_paper_title">Library Personalized Service System Based on Computer Network Technology</font><br />
+		<font class="font_nyw_paper_description">Security and Communication Networks, 2022.</font> <font class="font_nyw_paper_ALei"></font><br />
+		<a href="https://www.hindawi.com/journals/scn/2022/2550820/">Paper</a>
+     	</p>
+   </li>
+	<li>
+    	<p>
+		<font class="font_nyw_paper_name"><b>Lingwei Dang</b>, Yongwei Nie<sup>*</sup>, Chengjiang Long, Qing Zhang, Guiqing Li</font><br />
+		<font class="font_nyw_paper_title">Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space</font><br />
+		<font class="font_nyw_paper_description">Proceedings of the 30th ACM International Conference on Multimedia (<b>ACM MM</b>), Lisbon, Portugal, Oct 10-14, 2022.		</font> <font class="font_nyw_paper_ALei"></font><br />
+		<a href="https://nieyongwei.net/">Paper will be available</a> <a href="https://nieyongwei.net/">Code will be available.</a>
+     	</p>
+   </li>
+	<li>
+    	<p>
+		<font class="font_nyw_paper_name"><b>Lingwei Dang</b>, Yongwei Nie<sup>*</sup>, Chengjiang Long, Qing Zhang, Guiqing Li</font><br />
+		<font class="font_nyw_paper_title">MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction</font><br />
+		<font class="font_nyw_paper_description">Proceedings of the IEEE International Conference on Computer Vision (<b>ICCV</b>), Montreal, Canada, Oct 11-17, 2021.</font> <font class="font_nyw_paper_ALei"></font><br />
+<a href="https://arxiv.org/abs/2108.07152">Paper</a> <a href="https://github.com/Droliven/MSRGCN">Code.</a></p>
+	</p>
+   </li>
+  </ul>
 
 ---
-
+<li>
+			    <p><font class="font_nyw_paper_name">Lingwei Dang, <b>Yongwei Nie<sup>*</sup></b>, Chengjiang Long, Qing Zhang, Guiqing Li</font><br>
+				<font class="font_nyw_paper_title">MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction</font><br>
+				<font class="font_nyw_paper_description">Proceedings of the IEEE International Conference on Computer Vision (<b>ICCV</b>), Montreal, Canada, Oct 11-17, 2021.</font> <font class="font_nyw_paper_ALei"></font><br>
+				<a href="https://arxiv.org/abs/2108.07152">Paper</a> <a href="https://github.com/Droliven/MSRGCN">Code.</a></p>
+				</li>
 ### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
