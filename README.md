@@ -16,9 +16,9 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 - Worked as an **intern** in Game Generation Center with AI, [AI Lab](https://ai.tencent.com/ailab/zh/index), Technical Engineering Group (TEG), [**Tencent**](https://www.tencent.com/), from 2022.05-.
 - Received my **Bachelor's degree** from the **Shanghai University** in 2020.06, majored in computer science and technology.
 - 🔭 Reaserch interests are
-	+ (1) [**Deterministic Human Motion Prediction**](https://github.com/Droliven/MSRGCN)
-	+ (2) [**Stochastic Human Motion Generation / Diversity Promotion or Diverse Sampling for Generative Networls**](https://github.com/Droliven/diverse_sampling)
-	+ (3) [3D Human Pose & Shape Reconstruction / Mesh Recovery](https://github.com/Droliven/pymaf_reimplementation).
+	1. [**Deterministic Human Motion Prediction**](https://github.com/Droliven/MSRGCN)
+	1. [**Stochastic Human Motion Generation / Diversity Promotion or Diverse Sampling for Generative Networls**](https://github.com/Droliven/diverse_sampling)
+	1. [3D Human Pose & Shape Reconstruction / Mesh Recovery](https://github.com/Droliven/pymaf_reimplementation).
 - Some other areas or techniques that I have been exposed to but not that familiar with: Pose Estimation, Image Inpainting, Anomaly Detection, Face Swapping, Meta Learning, Semisupervised / Unsupervised Learning, *etc.*
 - 💬 Talk with me about anything [levondang@163.com](levondang@163.com)
 
