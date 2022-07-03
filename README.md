@@ -39,10 +39,10 @@ a passionate postgraduate student from Guangzhou, Mainland China.
    </li>
 	<li>
     	<p>
-		<font class="font_nyw_paper_name"><b>Lingwei Dang</b>, Yongwei Nie<sup>*</sup>, Chengjiang Long, Qing Zhang, Guiqing Li</font><br />
-		<font class="font_nyw_paper_title">Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space</font><br />
-		<font class="font_nyw_paper_description">Proceedings of the 30th ACM International Conference on Multimedia (<b>ACM MM</b>), Lisbon, Portugal, Oct 10-14, 2022.		</font> <font class="font_nyw_paper_ALei"></font><br />
-		<a href="https://nieyongwei.net/">Paper will be available</a> <a href="https://nieyongwei.net/">Code will be available.</a>
+		<font class="font_nyw_paper_name">Yan Sun<sup>*</sup>, <b>Lingwei Dang</b></font><br />
+		<font class="font_nyw_paper_title">A Fine Three-dimensional Adaptive Color Segmentation Algorithm for Real-time Vision System of Soccer Robot</font><br />
+		<font class="font_nyw_paper_description">Proceedings of the 4th International Conference on Communications, Information System and Computer Engineering (<b>CISCE</b>), Shenzhen, China, Jun 24-26, 2022.		</font> <font class="font_nyw_paper_ALei"></font><br />
+		<a href="">Paper will be available</a>
      	</p>
    </li>
 	<li>
