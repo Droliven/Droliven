@@ -4,7 +4,7 @@
 ## Hi there, I'm [Levon Dang](https://github.com/Droliven) 👋
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
-a passionate postgraduate student from Guangzhou, Mainland China.
+A passionate postgraduate student from Guangzhou, Mainland China.
 
 
 <img align="left" alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal" width='95%'/>
