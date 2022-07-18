@@ -3,6 +3,7 @@
 
 ## Hi there, I'm [Levon Dang](https://github.com/Droliven) 👋
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 A passionate postgraduate student from Guangzhou, Mainland China.
 
