@@ -35,7 +35,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 		<font class="font_nyw_paper_title">Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space</font><br />
 		<font class="font_nyw_paper_description">Proceedings of the 30th ACM International Conference on Multimedia (<b>ACM MM</b>), Lisbon, Portugal, Oct 10-14, 2022.		</font> <font class="font_nyw_paper_ALei"></font><br />
 	<font class="font_nyw_paper_name">Accepted papers 690, acceptance rate <b>27.9%</b></font><br/>	 
-		<a href="https://nieyongwei.net/">[Paper will be available]</a> <a href="https://github.com/Droliven/diverse_sampling">[Code]</a>
+		<a href="https://arxiv.org/abs/2207.07351">[Paper]</a> <a href="https://github.com/Droliven/diverse_sampling">[Code]</a>
      	</p>
    </li>
 	<li>
