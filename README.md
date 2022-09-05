@@ -36,7 +36,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 		<font class="font_nyw_paper_title">Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space</font><br />
 		<font class="font_nyw_paper_description">Proceedings of the 30th ACM International Conference on Multimedia (<b>ACM MM</b>), Lisbon, Portugal, Oct 10-14, 2022.		</font> <font class="font_nyw_paper_ALei"></font><br />
 	<font class="font_nyw_paper_name">Accepted papers 690, acceptance rate <b>27.9%</b></font><br/>	 
-		<a href="https://arxiv.org/abs/2207.07351">[Paper]</a> <a href="https://github.com/Droliven/diverse_sampling">[Pytorch code]</a>  <a href="https://github.com/Droliven/DHMP_jittor">[Jittor code]</a> 
+		<a href="https://github.com/Droliven/diverse_sampling">[Project]</a> <a href="https://arxiv.org/abs/2207.07351">[Paper]</a> <a href="https://github.com/Droliven/diverse_sampling">[Pytorch code]</a>  <a href="https://github.com/Droliven/DHMP_jittor">[Jittor code]</a> 
      	</p>
    </li>
 	<li>
@@ -66,7 +66,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 		<font class="font_nyw_paper_title">MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction</font><br />
 		<font class="font_nyw_paper_description">Proceedings of the IEEE International Conference on Computer Vision (<b>ICCV</b>), Montreal, Canada, Oct 11-17, 2021.</font> <font class="font_nyw_paper_ALei"></font><br />
 		<font class="font_nyw_paper_name">Accepted papers 1617, acceptance rate <b>25.9%</b></font><br/>	
-<a href="https://arxiv.org/abs/2108.07152">[Paper]</a> <a href="https://github.com/Droliven/MSRGCN">[Code]</a></p>
+<a href="https://github.com/Droliven/MSRGCN">[Project]</a><a href="https://arxiv.org/abs/2108.07152">[Paper]</a> <a href="https://github.com/Droliven/MSRGCN">[Code]</a></p>
 	</p>
    </li>
   </ul>
