@@ -52,7 +52,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 		<font class="font_nyw_paper_name">Yan Sun<sup>*</sup>, <b>Lingwei Dang</b></font><br />
 		<font class="font_nyw_paper_title">A Fine Three-dimensional Adaptive Color Segmentation Algorithm for Real-time Vision System of Soccer Robot</font><br />
 		<font class="font_nyw_paper_description">Proceedings of the 4th International Conference on Communications, Information System and Computer Engineering (<b>CISCE</b>), Shenzhen, China, Jun 24-26, 2022.		</font> <font class="font_nyw_paper_ALei"></font><br />
-		<a href="">[https://ieeexplore.ieee.org/author/37089489036]</a>
+		<a href="https://ieeexplore.ieee.org/author/37089489036">[Paper]</a>
      	</p>
    </li>
   </ul>
