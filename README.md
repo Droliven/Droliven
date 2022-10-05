@@ -73,6 +73,20 @@ A passionate postgraduate student from Guangzhou, Mainland China.
   
   
   ---
+  
+ ### Honors and Awards
+ 
++ Guangdong-plus Empowerment Scholarship (粤+赋能奖学金，2022.)
++ Excellent Communist Party Member (优秀共产党员，2022.06)
++ Jidiansanwei Special Scholarship for Graphics and Images (极点三维图形图像专项奖学金，2021.10)
++ Excellent individual (优秀个人，2019.05)
++ National Encouragement Scholarship (国家励志奖学金，2018.11.20)
++ Excellent individual (优秀个人，2018.05)
++ National Encouragement Scholarship (国家励志奖学金，2017.12.20)
++ First Class Scholarship (学业一等奖学金，2017.11.30)
+
+ 
+ ---
 
 ### Languages and Tools
 
