@@ -14,7 +14,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - Currently Pursuing the **M.E. degree** in [**South China University of Technology**](https://www.scut.edu.cn/en/), major in computer technology, 2020.09-.
-- Worked as an **intern** in AI Generation Center of Game, [**Tencent AI Lab** ](https://ai.tencent.com/ailab/zh/index), during 2022.05-.
+- Worked as an **intern** in AI Generation Center of Game, [**Tencent AI Lab** ](https://ai.tencent.com/ailab/en/index/), during 2022.05-.
 - Received my **Bachelor's degree** from the [**Shanghai University**](https://en.shu.edu.cn/) in 2020.06, majored in computer science and technology.
 - 🔭 Reaserch interests are
 	1. [**Deterministic Human Motion Prediction**](https://github.com/Droliven/MSRGCN)
