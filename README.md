@@ -78,15 +78,16 @@ A passionate postgraduate student from Guangzhou, Mainland China.
  
 + Guangdong-plus Empowerment Scholarship (粤+赋能奖学金，2022.)<sup>1</sup>
 + Excellent Communist Party Member (优秀共产党员，2022.06)
-+ Jidiansanwei Special Scholarship for Graphics and Images (极点三维图形图像专项奖学金，2021.10)<sup>2</sup>
++ Polar 3D Special Scholarship for Graphics and Images (极点三维图形图像专项奖学金，2021.10)<sup>2</sup>
 + Excellent individual (优秀个人，2019.05)
 + National Encouragement Scholarship (国家励志奖学金，2018.11.20)
 + Excellent individual (优秀个人，2018.05)
 + National Encouragement Scholarship (国家励志奖学金，2017.12.20)
 + First Class Scholarship (学业一等奖学金，2017.11.30)
 
- \[1\] Supported by Guangdong Youxin Public Welfare Foundation & 37 Interactive Entertainment （Shanghai）Technology Co., Ltd. （由广东省游心公益 · 三七互娱提供支持）
- 
++ \[1\] Supported by Guangdong Youxin Public Welfare Foundation & 37 Interactive Entertainment Network Technology Group Co., Ltd. （由广东省游心公益 · 三七互娱提供支持）
++ \[2\] Supported by Suofeiya Home Collection Co., Ltd. & Guangzhou Polar 3D Information Technology Co., Ltd. （由索菲亚 · 极点三维提供支持）
+
  
  ---
 
