@@ -8,7 +8,7 @@
 A passionate postgraduate student from Guangzhou, Mainland China.
 
 
-<img align="left" alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal" width='95%'/>
+<!-- <img align="left" alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal" width='95%'/> -->
 
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
