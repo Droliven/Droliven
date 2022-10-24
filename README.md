@@ -23,10 +23,11 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 - Some other areas or techniques that I have been exposed to but not that familiar with: Pose Estimation, Image Inpainting, Anomaly Detection, Face Swapping, Meta Learning, Semisupervised / Unsupervised Learning, *etc.*
 - 💬 Talk with me about anything [levondang@163.com](mailto:levondang@163.com)
 
----
 
 ### Motto
 <img align="left" alt="Readme Quotes" src="./assets/meishuzi.jpg" width='95%'/>
+
+---
 
 ### Publications
 
