@@ -25,7 +25,8 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 
 
 ### Motto
-<img align="left" alt="Readme Quotes" src="./assets/meishuzi.jpg" width='95%'/>
+
+<img align="left" alt="Readme Quotes" src="./assets/meishuzi.jpg"/>
 
 ---
 
