@@ -47,7 +47,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
    </li>
 	<li>
     	<p>
-		<font class="font_nyw_paper_name">Zhixiang Song<sup>*</sup>, <b><a href="https://github.com/Droliven">Lingwei Dang</a></b></font><br />
+		<font class="font_nyw_paper_name"><a href="mailto:201704432@stu.ncwu.edu.cn">Zhixiang Song</a><sup>*</sup>, <b><a href="https://github.com/Droliven">Lingwei Dang</a></b></font><br />
 		<font class="font_nyw_paper_title">Library Personalized Service System Based on Computer Network Technology</font><br />
 		<font class="font_nyw_paper_description">Security and Communication Networks, 2022.</font> <font class="font_nyw_paper_ALei"></font><br />
 		<a href="https://www.hindawi.com/journals/scn/2022/2550820/">[Paper]</a>
