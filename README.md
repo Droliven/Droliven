@@ -38,7 +38,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 <ul style="padding-left:12px;">
     <li>
     	<p>
-		<font class="font_nyw_paper_name"><b><a href="https://github.com/Droliven">Levon Dang</a></b>, <a href="https://nieyongwei.net">Yongwei Nie</a><sup>*</sup>, <a href="http://www.chengjianglong.com">Chengjiang Long</a>, <a href="http://zhangqing-home.net/">Qing Zhang</a>, <a href="http://www2.scut.edu.cn/cs/2017/0629/c22284a328097/page.htm">Guiqing Li</a></font><br />
+		<font class="font_nyw_paper_name"><b><a href="https://github.com/Droliven">Lingwei Dang</a></b>, <a href="https://nieyongwei.net">Yongwei Nie</a><sup>*</sup>, <a href="http://www.chengjianglong.com">Chengjiang Long</a>, <a href="http://zhangqing-home.net/">Qing Zhang</a>, <a href="http://www2.scut.edu.cn/cs/2017/0629/c22284a328097/page.htm">Guiqing Li</a></font><br />
 		<font class="font_nyw_paper_title">Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space</font><br />
 		<font class="font_nyw_paper_description">Proceedings of the 30th ACM International Conference on Multimedia (<b>ACM MM</b>), Lisbon, Portugal, Oct 10-14, 2022.		</font> <font class="font_nyw_paper_ALei"></font><br />
 	<font class="font_nyw_paper_name">Accepted papers 690, acceptance rate <b>27.9%</b></font><br/>	 
@@ -47,7 +47,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
    </li>
 	<li>
     	<p>
-		<font class="font_nyw_paper_name">Zhixiang Song<sup>*</sup>, <b>Lingwei Dang</b></font><br />
+		<font class="font_nyw_paper_name">Zhixiang Song<sup>*</sup>, <b><a href="https://github.com/Droliven">Lingwei Dang</a></b></font><br />
 		<font class="font_nyw_paper_title">Library Personalized Service System Based on Computer Network Technology</font><br />
 		<font class="font_nyw_paper_description">Security and Communication Networks, 2022.</font> <font class="font_nyw_paper_ALei"></font><br />
 		<a href="https://www.hindawi.com/journals/scn/2022/2550820/">[Paper]</a>
@@ -55,7 +55,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
    </li>
 	<li>
     	<p>
-		<font class="font_nyw_paper_name">Yan Sun<sup>*</sup>, <b>Lingwei Dang</b></font><br />
+		<font class="font_nyw_paper_name"><a href="https://yansun-shu.github.io/">Yan Sun</a><sup>*</sup>, <b><a href="https://github.com/Droliven">Lingwei Dang</a></b></font><br />
 		<font class="font_nyw_paper_title">A Fine Three-dimensional Adaptive Color Segmentation Algorithm for Real-time Vision System of Soccer Robot</font><br />
 		<font class="font_nyw_paper_description">Proceedings of the 4th International Conference on Communications, Information System and Computer Engineering (<b>CISCE</b>), Shenzhen, China, Jun 24-26, 2022.		</font> <font class="font_nyw_paper_ALei"></font><br />
 		<a href="https://ieeexplore.ieee.org/author/37089489036">[Paper]</a>
@@ -68,7 +68,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 <ul style="padding-left:12px;">
 	<li>
     	<p>
-		<font class="font_nyw_paper_name">><b><a href="https://github.com/Droliven">Levon Dang</a></b>, <a href="https://nieyongwei.net">Yongwei Nie</a><sup>*</sup>, <a href="http://www.chengjianglong.com">Chengjiang Long</a>, <a href="http://zhangqing-home.net/">Qing Zhang</a>, <a href="http://www2.scut.edu.cn/cs/2017/0629/c22284a328097/page.htm">Guiqing Li</a></font><br />
+		<font class="font_nyw_paper_name"><b><a href="https://github.com/Droliven">Lingwei Dang</a></b>, <a href="https://nieyongwei.net">Yongwei Nie</a><sup>*</sup>, <a href="http://www.chengjianglong.com">Chengjiang Long</a>, <a href="http://zhangqing-home.net/">Qing Zhang</a>, <a href="http://www2.scut.edu.cn/cs/2017/0629/c22284a328097/page.htm">Guiqing Li</a></font><br />
 		<font class="font_nyw_paper_title">MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction</font><br />
 		<font class="font_nyw_paper_description">Proceedings of the IEEE International Conference on Computer Vision (<b>ICCV</b>), Montreal, Canada, Oct 11-17, 2021.</font> <font class="font_nyw_paper_ALei"></font><br />
 		<font class="font_nyw_paper_name">Accepted papers 1617, acceptance rate <b>25.9%</b></font><br/>	
