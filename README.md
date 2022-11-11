@@ -38,7 +38,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 <ul style="padding-left:12px;">
     <li>
     	<p>
-		<font class="font_nyw_paper_name"><b>Lingwei Dang</b>, Yongwei Nie<sup>*</sup>, Chengjiang Long, Qing Zhang, Guiqing Li</font><br />
+		<font class="font_nyw_paper_name"><b><a href="https://github.com/Droliven">Levon Dang</a></b>, Yongwei Nie<sup>*</sup>, Chengjiang Long, Qing Zhang, Guiqing Li</font><br />
 		<font class="font_nyw_paper_title">Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space</font><br />
 		<font class="font_nyw_paper_description">Proceedings of the 30th ACM International Conference on Multimedia (<b>ACM MM</b>), Lisbon, Portugal, Oct 10-14, 2022.		</font> <font class="font_nyw_paper_ALei"></font><br />
 	<font class="font_nyw_paper_name">Accepted papers 690, acceptance rate <b>27.9%</b></font><br/>	 
