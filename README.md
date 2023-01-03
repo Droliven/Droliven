@@ -91,9 +91,9 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 + National Encouragement Scholarship (国家励志奖学金，2017.12.20)
 + First Class Scholarship (学业一等奖学金，2017.11.30)
 
-<font size=1.9 color=#808080>\[1\] Supported by Guangdong Youxin Public Welfare Foundation & 37 Interactive Entertainment Network Technology Group Co., Ltd. （由广东省游心公益 · 三七互娱提供支持）</font>
+<font size=1.9 color=#808080>\[1\] Supported by Guangdong Youxin Public Welfare Foundation & 37 Interactive Entertainment Network Technology Group Co., Ltd. （由广东省游心公益 · 三七互娱提供）</font>
 
-<font size=1.9 color=#808080>\[2\] Supported by Suofeiya Home Collection Co., Ltd. & Guangzhou Polar 3D Information Technology Co., Ltd. （由索菲亚 · 极点三维提供支持）</font>
+<font size=1.9 color=#808080>\[2\] Supported by Suofeiya Home Collection Co., Ltd. & Guangzhou Polar 3D Information Technology Co., Ltd. （由索菲亚 · 极点三维提供）</font>
  
  ---
 
