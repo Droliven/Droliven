@@ -138,6 +138,9 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 <a href="https://github.com/Droliven/DHMP_jittor">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=DHMP_jittor&theme=nightowl" />
   </a>
+<a href="https://github.com/Droliven/scut-thesis-templete">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droliven&repo=scut-thesis-templete&theme=nightowl" />
+  </a>
 </p>
 
 
