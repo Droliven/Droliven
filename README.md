@@ -24,10 +24,10 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 - 💬 Talk with me about anything [levondang@163.com](mailto:levondang@163.com)
 
 
-### Motto
+<!-- ### Motto
 
 <img align="center" alt="Readme Quotes" src="./assets/meishuzi.jpg" width='95%'/>
-<br/>
+<br/> -->
 
 ---
 
