@@ -40,11 +40,12 @@ A passionate postgraduate student from Guangzhou, Mainland China.
     	<p>
 		<font class="font_nyw_paper_name"><b><a href="https://github.com/Droliven">Lingwei Dang</a></b></font><br />
 		<font class="font_nyw_paper_title">确定性和多样性人体动作预测方法研究 (Research on Deterministic and Diverse Human Motion Prediction Methods)</font><br />
-		<font class="font_nyw_paper_description">Master's thesis, SCUT, Guangdong, China, Jun 10-14, 2023.</font> <font class="font_nyw_paper_ALei"></font><br />
+		<font class="font_nyw_paper_description">Dissertation for the Master of Engineering Degree, SCUT, Guangzhou, China, Jun 10-14, 2023.</font> <font class="font_nyw_paper_ALei"></font><br />
 <!-- 		<font class="font_nyw_paper_name">Accepted papers 690, acceptance rate <b>27.9%</b></font><br/>	  -->
 		<a href="https://www.cnki.net/">[Paper in China National Knowledge Infrastructure (CNKI)]</a>
      	</p>
    </li>
+</ul>
 
 #### 2022
 
