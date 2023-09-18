@@ -5,8 +5,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-A passionate postgraduate student from Guangzhou, Mainland China.
-
 
 <!-- <img align="left" alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal" width='95%'/> -->
 
@@ -14,7 +12,7 @@ A passionate postgraduate student from Guangzhou, Mainland China.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - Received the **M.E. degree** from [**South China University of Technology**](https://www.scut.edu.cn/en/) in 2023.06, major in computer technology.
-- Worked as an **intern** in TEG, [**Tencent AI Lab** ](https://ai.tencent.com/ailab/en/index/), during 2022.05.17-2022.07.12
+- Worked as an **intern** in TEG, [**Tencent AI Lab** ](https://ai.tencent.com/ailab/en/index/), during 2022.05.17-2022.07.12.
 - Received my **Bachelor's degree** from [**Shanghai University**](https://en.shu.edu.cn/) in 2020.06, majored in computer science and technology.
 - 🔭 Reaserch interests are
 	1. [**Deterministic Human Motion Prediction**](https://github.com/Droliven/MSRGCN)
