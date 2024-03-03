@@ -12,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - Received the **M.E. degree** from [**South China University of Technology**](https://www.scut.edu.cn/en/) in 2023.06, major in computer technology.
-- Worked as an **intern** in TEG, [**Tencent AI Lab** ](https://ai.tencent.com/ailab/en/index/), during 2022.05.17-2022.07.12.
+- Worked as an **intern** in TEG, [**Tencent AI Platform Department** ](https://ai.tencent.com/ailab/en/index/), during 2022.05.17-2022.07.12.
 - Received my **Bachelor's degree** from [**Shanghai University**](https://en.shu.edu.cn/) in 2020.06, majored in computer science and technology.
 - 🔭 Reaserch interests are
 	1. [**Deterministic Human Motion Prediction**](https://github.com/Droliven/MSRGCN)
