@@ -11,7 +11,7 @@
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- Working as an AI Algorithm Engineer in [**Ant Group**](https://www.antgroup.com/en) since 2023.07.06.
+- Working as an AI Algorithm Engineer in [**Ant Group**](https://www.antgroup.com/en) during 2023.07.06-2024.06.07.
 - Received the **M.E. degree** from [**South China University of Technology**](https://www.scut.edu.cn/en/) in 2023.06, major in computer technology.
 - Worked as an **intern** in [**Tencent AI Platform Department** ](https://ai.tencent.com/ailab/en/index/), during 2022.05.17-2022.07.12.
 - Received my **Bachelor's degree** from [**Shanghai University**](https://en.shu.edu.cn/) in 2020.06, majored in computer science and technology.
@@ -57,7 +57,7 @@
 	<font class="font_nyw_paper_name">Accepted papers 690, acceptance rate <b>27.9%</b></font><br/>	 
 		<a href="https://github.com/Droliven/diverse_sampling">[Project]</a> <a href="https://arxiv.org/abs/2207.07351">[Paper]</a> <a href="https://github.com/Droliven/diverse_sampling">[Pytorch code]</a>  <a href="https://github.com/Droliven/DHMP_jittor">[Jittor code]</a> 
      	</p>
-   </li>
+<!--    </li>
 	<li>
     	<p>
 		<font class="font_nyw_paper_name"><a href="mailto:201704432@stu.ncwu.edu.cn">Zhixiang Song</a><sup>*</sup>, <b><a href="https://github.com/Droliven">Lingwei Dang</a></b></font><br />
@@ -65,7 +65,7 @@
 		<font class="font_nyw_paper_description">Security and Communication Networks, 2022.</font> <font class="font_nyw_paper_ALei"></font><br />
 		<a href="https://www.hindawi.com/journals/scn/2022/2550820/">[Paper]</a>
      	</p>
-   </li>
+   </li> -->
 	<li>
     	<p>
 		<font class="font_nyw_paper_name"><a href="https://yansun-shu.github.io/">Yan Sun</a><sup>*</sup>, <b><a href="https://github.com/Droliven">Lingwei Dang</a></b></font><br />
