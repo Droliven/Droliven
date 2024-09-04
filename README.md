@@ -95,18 +95,18 @@
   
  ### Honors and Awards
  
-+ Guangdong-plus Empowerment Scholarship (粤+赋能奖学金，2022.)<sup>**\[1\]**</sup>
-+ Excellent Communist Party Member (优秀共产党员，2022.06)
-+ Polar 3D Special Scholarship for Graphics and Images (极点三维图形图像专项奖学金，2021.10)<sup>**\[2\]**</sup>
-+ Excellent individual (优秀个人，2019.05)
-+ National Encouragement Scholarship (国家励志奖学金，2018.11.20)
-+ Excellent individual (优秀个人，2018.05)
-+ National Encouragement Scholarship (国家励志奖学金，2017.12.20)
-+ First Class Scholarship (学业一等奖学金，2017.11.30)
++ 粤+赋能奖学金 (Guangdong-plus Empowerment Scholarship), 2022.<sup>**\[1\]**</sup>
++ 优秀共产党员 (Excellent Communist Party Member), 2022.06
++ 极点三维图形图像专项奖学金 (Polar 3D Special Scholarship for Graphics and Images), 2021.10.<sup>**\[2\]**</sup>
++ 优秀个人 (Excellent individual), 2019.05
++ 国家励志奖学金 (National Encouragement Scholarship), 2018.11.20
++ 优秀个人 (Excellent individual), 2018.05
++ 国家励志奖学金 (National Encouragement Scholarship), 2017.12.20
++ 学业一等奖学金 (First Class Scholarship), 2017.11.30
 
-<font size=1.9 color=#808080>\[1\] Supported by Guangdong Youxin Public Welfare Foundation & 37 Interactive Entertainment Network Technology Group Co., Ltd. （由广东省游心公益 · 三七互娱提供）</font>
+<font size=1.9 color=#808080>\[1\] Supported by Guangdong Youxin Public Welfare Foundation & 37 Interactive Entertainment Network Technology Group Co., Ltd. （由广东省游心公益 · 三七互娱支持）</font>
 
-<font size=1.9 color=#808080>\[2\] Supported by Suofeiya Home Collection Co., Ltd. & Guangzhou Polar 3D Information Technology Co., Ltd. （由索菲亚 · 极点三维提供）</font>
+<font size=1.9 color=#808080>\[2\] Supported by Suofeiya Home Collection Co., Ltd. & Guangzhou Polar 3D Information Technology Co., Ltd. （由索菲亚 · 极点三维支持）</font>
  
  ---
 
