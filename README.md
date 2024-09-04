@@ -41,7 +41,7 @@
 		<font class="font_nyw_paper_title">确定性和多样性人体动作预测方法研究 (Research on Deterministic and Diverse Human Motion Prediction Methods)</font><br />
 		<font class="font_nyw_paper_description">Dissertation for the Master of Engineering Degree, SCUT, Guangzhou, China, Jun 04, 2023.</font> <font class="font_nyw_paper_ALei"></font><br />
 <!-- 		<font class="font_nyw_paper_name">Accepted papers 690, acceptance rate <b>27.9%</b></font><br/>	  -->
-		<a href="https://kns.cnki.net/kcms2/article/abstract?v=5YEXlE_hGrzI_GnvhRQrZu0Zpo4LwLYUEvLgV8khqqjHTR9qYPTBPgD-4JQJeN83b7GAZUJQZIJZPBd4m1_zvYql1XM6nzZwvG2z13P7k6uDUazB32bUEzprQKR-SiWeIaC0CceXl2rYr0F5VujiSLtY6MiwtdYcviBvzzktdQ8=&uniplatform=NZKPT">[Paper in CNKI] </a> <a href="https://github.com/Droliven/">[PPT] coming soon ...</a>
+		<a href="https://kns.cnki.net/kcms2/article/abstract?v=5YEXlE_hGrzI_GnvhRQrZu0Zpo4LwLYUEvLgV8khqqjHTR9qYPTBPgD-4JQJeN83b7GAZUJQZIJZPBd4m1_zvYql1XM6nzZwvG2z13P7k6uDUazB32bUEzprQKR-SiWeIaC0CceXl2rYr0F5VujiSLtY6MiwtdYcviBvzzktdQ8=&uniplatform=NZKPT">[Paper in CNKI] </a>
      	</p>
    </li>
 </ul>
